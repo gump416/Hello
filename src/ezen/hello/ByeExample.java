@@ -7,6 +7,8 @@ public class ByeExample {
 		
 		
 		System.out.println("bye");
+		
+		System.out.println("변경");
 	}
 
 }
